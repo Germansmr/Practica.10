@@ -1,0 +1,12 @@
+body{
+    background: radial-gradient(rgb(214, 72, 72),rgb(46, 115, 206))
+}
+
+h2.titulo{
+    color: red;
+    text-align: center;
+}
+
+spam.azul{
+    color: blue;
+}

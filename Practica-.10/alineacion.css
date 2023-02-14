@@ -1,0 +1,161 @@
+p.portero1{
+position: relative;
+top: -5px;
+right: -35px;
+}
+
+p.portero2{
+    position: relative;
+    top: -38px;
+    right: -190px;
+}
+
+p.defensa1{
+    position: relative;
+    top: -5px;
+    right: -50px;
+}
+
+p.defensa2{
+    position: relative;
+    top: -40px;
+    right: -190px;
+}
+
+p.defensa3{
+    position: relative;
+    top: -75px;
+    right: -360px;
+}
+
+p.defensa4{
+    position: relative;
+    top: -107px;
+    right: -505px;
+}
+
+p.defensa5{
+    position: relative;
+    top: -140px;
+    right: -655px;
+}
+
+p.defensa6{
+    position: relative;
+    top: -175px;
+    right: -825px;
+}
+
+p.defensa7{
+    position: relative;
+    top: -210px;
+    right: -980px;
+}
+
+p.defensa8{
+    position: relative;
+    top: -245px;
+    right: -1120px;
+}
+
+p.central1{
+    position: relative;
+    top: -200px;
+    right: -25px;
+}
+
+img.busquets{
+    position: relative;
+    top: -200px;
+    right: ;
+}
+
+h3.centrales{
+    position: relative;
+    top: -200px;
+    right: ;
+}
+
+img.pedri{
+    position: relative;
+    top: -200px;
+    right: -25px;
+}
+
+p.central2{
+    position: relative;
+    top: -235px;
+    right: -235px;
+}
+
+p.central3{
+    position: relative;
+    top: -270px;
+    right: -390px;
+}
+
+p.central4{
+    position: relative;
+    top: -305px;
+    right: -545px;
+}
+
+p.central5{
+    position: relative;
+    top: -340px;
+    right: -680px;
+}
+
+p.central6{
+    position: relative;
+    top: -375px;
+    right: -855px;
+}
+
+p.central7{
+    position: relative;
+    top: -410px;
+    right: -990px;
+}
+
+h3.delanteros{
+    position: relative;
+    top: -350px;
+    right: ;
+}
+
+img.dembele{
+    position: relative;
+    top: -350px;
+    right: -10px;
+}
+
+p.delantero1{
+    position: relative;
+    top: -350px;
+    right: -45px;
+}
+
+p.delantero2{
+    position: relative;
+    top: -385px;
+    right: -195px;
+}
+
+p.delantero3{
+    position: relative;
+    top: -420px;
+    right: -365px;
+}
+
+p.delantero4{
+    position: relative;
+    top: -455px;
+    right: -515px;
+}
+
+p.delantero5{
+    position: relative;
+    top: -490px;
+    right: -670px;
+}
